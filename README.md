@@ -1,0 +1,1 @@
+# usd_currency_detector
